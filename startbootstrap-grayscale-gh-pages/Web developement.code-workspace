@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Web developement",
+			"path": ".."
+		},
+		{
+			"name": "startbootstrap-grayscale-gh-pages",
+			"path": "../../../../../Downloads/startbootstrap-grayscale-gh-pages"
+		},
+		{
+			"name": "startbootstrap-resume-gh-pages",
+			"path": "../../../../../Downloads/startbootstrap-resume-gh-pages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-grayscale-gh-pages"
+	}
+}

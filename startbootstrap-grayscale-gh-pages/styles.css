@@ -1,0 +1,64 @@
+body {
+    background-color: tan;
+}
+.header {
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: 1px solid #271e1e;
+    font-size: 25px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+}
+
+a:visited {
+    text-decoration: rgb(189, 133, 241);
+}
+h2, .underline{
+    text-decoration: underline;
+}
+.leftmenu {
+    top: 108px;
+    left: 2px;
+    bottom: 2px;
+    width: 110px;
+    z-index: 1;
+    font-size: 10px;
+    padding-left: 10px;
+}
+.rightmenu {
+    top: 108px;
+    right: 2px;
+    bottom: 2px;
+    width: 200px;
+    font-size: 10px;
+    padding-right: 30px;
+}
+.common {
+    border: 2px dashed black;
+    position: absolute;
+
+}
+.mainbody {
+    top: 118px;
+    right: 208px;
+    left: 108px;
+    bottom: 2px;
+    position: absolute;
+}
+.larger{
+    font-size: 15px;
+}
+.tableau {
+    position: absolute;
+    top: 800px;
+}
+.youtubevideo {
+    position: absolute;
+    top: 2300px;
+}
